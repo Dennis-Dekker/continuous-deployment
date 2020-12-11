@@ -1,1 +1,3 @@
-print("hello world, but now continuous")
+import time
+
+time.sleep(3)
